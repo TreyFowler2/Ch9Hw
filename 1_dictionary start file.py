@@ -1,3 +1,6 @@
+#py -3 -m venv .venv creates a virtual environment
+
+
 import random
 
 phonebook = {'Chris':'555−1111',

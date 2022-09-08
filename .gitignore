@@ -1,0 +1,4 @@
+.venv/
+#/ means everything below the folder
+#retail_space.csv
+#*csv (ignores all csv files)

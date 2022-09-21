@@ -1,4 +1,5 @@
 .venv/
-#/ means everything below the folder
-#retail_space.csv
-#*csv (ignores all csv files)
+info_security.txt
+someone.txt
+
+

@@ -1,5 +1,3 @@
-#py -3 -m venv .venv creates a virtual environment
-
 
 import random
 
